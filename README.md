@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Web developement
 - 📫 How to reach me : o.lahmami.2000@gmail.com
 
-[![<username>'s 42 stats](https://badge.mediaplus.ma/<theme>/<username>)](https://github.com/oakoudad/badge42)
+[![<olahmami>'s 42 stats](https://badge.mediaplus.ma/<binary>/<olahmami>)](https://github.com/oakoudad/badge42)
