@@ -1,6 +1,10 @@
 <h1>HEY</h1>
 
-![img](https://raw.githubusercontent.com/LAHMAMI1/LAHMAMI1/main/LAHMAMI1_img.png)
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <img alt="img" src="https://raw.githubusercontent.com/LAHMAMI1/LAHMAMI1/main/LAHMAMI1_img.png">
+</picture>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAHMAMI1&theme=algolia&show_icons=true)
 
