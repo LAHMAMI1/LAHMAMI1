@@ -1,8 +1,6 @@
 <h1>HEY</h1>
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
  <img alt="img" src="https://raw.githubusercontent.com/LAHMAMI1/LAHMAMI1/main/LAHMAMI1_img.png">
 </picture>
 
