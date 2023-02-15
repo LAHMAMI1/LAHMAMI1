@@ -1,4 +1,4 @@
-<h1 align="center">There is no joy in possession without sharing</h1>
+<h1 align="center"><img align="center" alt="img" height=10% width=10% src="https://github.com/LAHMAMI1/LAHMAMI1/blob/main/thunder.gif"> There is no joy in possession without sharing <img align="center" alt="img" height=10% width=10% src="https://github.com/LAHMAMI1/LAHMAMI1/blob/main/thunder.gif"></h1>
 
 <img align="center" alt="img" src="https://raw.githubusercontent.com/LAHMAMI1/LAHMAMI1/main/LAHMAMI1_img.png">
 
@@ -36,3 +36,5 @@
       />
  </a>
  </p>
+
+<p align="center">Feel free to reach out to me at terko.oussama.2000@gmail.com or connect with me on [LinkedIn: https://www.linkedin.com/in/oussama-lahmami] if you have any questions or opportunities. Thank you for visiting my portfolio!</p>
