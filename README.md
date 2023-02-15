@@ -6,4 +6,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAHMAMI1&theme=algolia&show_icons=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LAHMAMI1&repo=LAHMAMI1)](https://github.com/LAHMAMI1/README.md)
