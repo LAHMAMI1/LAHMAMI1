@@ -36,5 +36,8 @@
       />
  </a>
  </p>
-
+<div align="center">
+      <a href="https://github.com/LAHMAMI1">              
+        <img src="https://komarev.com/ghpvc/?username=LAHMAMI1&&style=for-the-badge&color=1368a8">
+     </div>
 <p align="center">Feel free to reach out to me at terko.oussama.2000@gmail.com or connect with me on [LinkedIn: https://www.linkedin.com/in/oussama-lahmami] if you have any questions or opportunities. Thank you for visiting my portfolio!</p>
