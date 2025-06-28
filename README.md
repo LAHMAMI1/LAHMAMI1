@@ -2,11 +2,6 @@
 
 I'm a **Full Stack Software Developer** with a strong focus on **backend technologies**, currently honing my skills at [1337 Coding School (42 Network)](https://www.1337.ma/). I'm passionate about designing and implementing scalable web applications, microservices, and tackling real-world challenges with tech-driven teams.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/oussama-lahmami/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-oussama--lahmami-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:oussamalahmami@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oussamalahmami@hotmail.com-red?style=flat-square&logo=microsoftoutlook"></a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -81,5 +76,7 @@ I'm a **Full Stack Software Developer** with a strong focus on **backend technol
 
 I'm always open to discussing new projects, collaborations, or interesting opportunities in tech.
 
-*   **LinkedIn:** [linkedin.com/in/oussama-lahmami](https://www.linkedin.com/in/oussama-lahmami/)
-*   **Email:** [oussamalahmami@hotmail.com](mailto:oussamalahmami@hotmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/oussama-lahmami/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-oussama--lahmami-blue?style=flat-square&logo=linkedin"></a>
+  <a href="mailto:oussamalahmami@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oussamalahmami@hotmail.com-red?style=flat-square&logo=microsoftoutlook"></a>
+</p>
