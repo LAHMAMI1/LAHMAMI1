@@ -1,25 +1,25 @@
 # Hi there, I'm Oussama Lahmami 👋
 
-I'm a **Full Stack Software Developer** with a strong focus on **backend technologies**, currently honing my skills at [1337 Coding School (42 Network)](https://www.1337.ma/). I'm passionate about designing and implementing scalable web applications, microservices, and tackling real-world challenges with tech-driven teams.
+**Full Stack Developer** with a strong **backend**
+focus and proven experience in designing and
+implementing scalable web applications.
+Proficient in Node.js, TypeScript, Docker, and
+microservices architecture. Eager to apply
+hands-on experience in system programming
+and modern DevOps tools to solve real-world
+challenges.
+
 
 ---
 
 ## 🚀 About Me
-<p align="left">
-    <a href="https://github.com/LAHMAMI1">
-      <img
-        align="center"
-        src="https://badge.mediaplus.ma/binary/olahmami"
-      />
-    </a>
-</p>
+
 
 *   💻 Experienced in **Node.js, Fastify, TypeScript, Docker, and microservices architecture**.
 *   🔐 Skilled in building **secure authentication systems** (JWT, 2FA, OAuth).
 *   🛠️ Proficient with modern **DevOps** tools like **NGINX** and the **ELK Stack** for logging and monitoring.
 *   🧠 A self-disciplined, deeply curious, and hands-on learner with a solid foundation in **C/C++** and system programming.
 *   🎯 Eager to contribute to innovative projects and continuously expand my skillset.
-*   📚 Currently a student of **Digital Technology Architecture** at **1337 Coding School (42 Network)**.
 
 ---
 
