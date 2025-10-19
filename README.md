@@ -4,7 +4,8 @@
 focus and proven experience in designing and
 implementing scalable web applications.
 Proficient in Node.js, TypeScript, Docker, and
-microservices architecture. Eager to apply
+microservices architecture. Currently expanding
+skills in **Java backend development**. Eager to apply
 hands-on experience in system programming
 and modern DevOps tools to solve real-world
 challenges.
@@ -16,9 +17,11 @@ challenges.
 
 
 *   💻 Experienced in **Node.js, Fastify, TypeScript, Docker, and microservices architecture**.
+*   ☕ Currently learning **Java backend development** and object-oriented programming principles.
 *   🔐 Skilled in building **secure authentication systems** (JWT, 2FA, OAuth).
 *   🛠️ Proficient with modern **DevOps** tools like **NGINX** and the **ELK Stack** for logging and monitoring.
 *   🧠 A self-disciplined, deeply curious, and hands-on learner with a solid foundation in **C/C++** and system programming.
+*   🎓 **Bachelor of Engineering** student at Università degli Studi di Modena e Reggio Emilia.
 *   🎯 Eager to contribute to innovative projects and continuously expand my skillset.
 
 ---
@@ -26,6 +29,7 @@ challenges.
 ## 🛠️ My Tech Stack
 
 <p align="left">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/></a>
@@ -51,6 +55,16 @@ challenges.
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/></a>
   <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="36" height="36"/></a>
 </p>
+
+---
+
+## 🎯 Current Learning Journey
+
+**☕ Java Backend Development**
+- Working through structured Java modules and exercises
+- Focusing on OOP principles, data structures, and algorithms
+- Building practical applications and transaction services
+- **Repository:** [Java Programming Practice](https://github.com/LAHMAMI1/Java_Programming_Practice)
 
 ---
 
