@@ -21,7 +21,6 @@ challenges.
 *   🔐 Skilled in building **secure authentication systems** (JWT, 2FA, OAuth).
 *   🛠️ Proficient with modern **DevOps** tools like **NGINX** and the **ELK Stack** for logging and monitoring.
 *   🧠 A self-disciplined, deeply curious, and hands-on learner with a solid foundation in **C/C++** and system programming.
-*   🎓 **Bachelor of Engineering** student at Università degli Studi di Modena e Reggio Emilia.
 *   🎯 Eager to contribute to innovative projects and continuously expand my skillset.
 
 ---
