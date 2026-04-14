@@ -1,95 +1,51 @@
-# Hi there, I'm Oussama Lahmami 👋
+# Oussama Lahmami — Full-Stack Developer
 
-**Full Stack Developer** with a strong **backend**
-focus and proven experience in designing and
-implementing scalable web applications.
-Proficient in Node.js, TypeScript, Docker, and
-microservices architecture. Currently expanding
-skills in **Java backend development**. Eager to apply
-hands-on experience in system programming
-and modern DevOps tools to solve real-world
-challenges.
+I build and deploy production websites and web applications for Italian businesses — end to end.
 
+Two live deployments serving real clients in Italy:
+- **[norservice.it](https://norservice.it)** — Production website for an Italian service company in Lombardia (Next.js, React, TailwindCSS, Technical SEO, Core Web Vitals optimized)
+- **[permessopro.com](https://permessopro.com)** — Multilingual web platform (IT/EN/FR/AR) for immigrants navigating Italian residency procedures (Next.js, GDPR-compliant, mobile-first)
+
+Both projects were delivered solo: requirements gathering, frontend & backend development, technical SEO, Linux server deployment, and post-launch support.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-
-*   💻 Experienced in **Node.js, Fastify, TypeScript, Docker, and microservices architecture**.
-*   ☕ Currently learning **Java backend development** and object-oriented programming principles.
-*   🔐 Skilled in building **secure authentication systems** (JWT, 2FA, OAuth).
-*   🛠️ Proficient with modern **DevOps** tools like **NGINX** and the **ELK Stack** for logging and monitoring.
-*   🧠 A self-disciplined, deeply curious, and hands-on learner with a solid foundation in **C/C++** and system programming.
-*   🎯 Eager to contribute to innovative projects and continuously expand my skillset.
+*   💻 Full-Stack Developer with a strong backend focus — **Next.js, React, Node.js, Fastify, TypeScript, Docker, NGINX**
+*   🚀 Trained at **1337 Coding School (42 Network / Ecole 42 Paris)** — under 5% acceptance rate, 100% project-based curriculum, no lectures
+*   🔐 Skilled in building **secure authentication systems** (JWT, 2FA TOTP, OAuth)
+*   🐳 Experienced with **Docker**, NGINX, and Linux production infrastructure
+*   🌍 Based in **Mantova, Lombardia** — available for projects across Italy (in-person or remote)
+*   📧 Open to freelance projects and collaborations: oussamalahmami@hotmail.com
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 <p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/></a>
-  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" height="36"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="36" height="36"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="36" height="36"/></a>
-  <a href="https://fastify.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastify/fastify-original-wordmark.svg" alt="Fastify" width="36" height="36"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="36" height="36"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="36" height="36"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="36" height="36"/></a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="36" height="36"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="36" height="36"/></a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" alt="MariaDB" width="36" height="36"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="36" height="36"/></a>
-  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="36" height="36"/></a>
-  <em>(SQL, ORM)</em>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="36" height="36"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="36" height="36"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="36" height="36"/></a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="NGINX" width="36" height="36"/></a>
-  <a href="https://www.elastic.co/elastic-stack" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="ELK Stack" width="36" height="36"/></a>
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="WordPress" width="36" height="36"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="36" height="36"/></a>
-  <a href="https://www.notion.so/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="36" height="36"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 </p>
 
 ---
 
-## 🎯 Current Learning Journey
+## GitHub Stats
 
-**☕ Java Backend Development**
-- Working through structured Java modules and exercises
-- Focusing on OOP principles, data structures, and algorithms
-- Building practical applications and transaction services
-- **Repository:** [Java Programming Practice](https://github.com/LAHMAMI1/Java_Programming_Practice)
+[![Oussama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LAHMAMI1&show_icons=true&theme=dark)](https://github.com/LAHMAMI1)
 
 ---
 
-## 📊 GitHub Stats
+## Let's Work Together
 
-<p align="center">
-  <a href="https://github.com/LAHMAMI1">
-    <img src="https://github-readme-stats.vercel.app/api?username=LAHMAMI1&theme=tokyonight&show_icons=true&rank_icon=github&hide_border=true" alt="Oussama's GitHub Stats" />
-  </a>
-  <a href="https://github.com/LAHMAMI1">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LAHMAMI1&theme=tokyonight&layout=compact&langs_count=8&show_icons=true&hide_border=true" alt="Oussama's Top Languages" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/LAHMAMI1">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=LAHMAMI1&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Oussama's GitHub Streak" />
-  </a>
-</p>
+Looking for a freelance developer to build or improve your Italian business website? I handle everything from the first brief to going live.
 
----
-
-## 📫 Let's Connect!
-
-I'm always open to discussing new projects, collaborations, or interesting opportunities in tech.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/oussama-lahmami/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-oussama--lahmami-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:oussamalahmami@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-oussamalahmami@hotmail.com-red?style=flat-square&logo=microsoftoutlook"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/oussama-lahmami/) [![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:oussamalahmami@hotmail.com)
