@@ -17,7 +17,7 @@ Both projects were delivered solo: requirements gathering, frontend & backend de
 *   🔐 Skilled in building **secure authentication systems** (JWT, 2FA TOTP, OAuth)
 *   🐳 Experienced with **Docker**, NGINX, and Linux production infrastructure
 *   🌍 Based in **Mantova, Lombardia** — available for projects across Italy (in-person or remote)
-*   📧 Open to freelance projects and collaborations: oussamalahmami@hotmail.com
+* 💼 Seeking **full-time employment** as Full Stack Developer in Italy — available immediately | Remote & on-site
 
 ---
 
@@ -44,8 +44,8 @@ Both projects were delivered solo: requirements gathering, frontend & backend de
 
 ---
 
-## Let's Work Together
+## Available for Full-Time Employment
 
-Looking for a freelance developer to build or improve your Italian business website? I handle everything from the first brief to going live.
+Full Stack Developer (Node.js · TypeScript · React · Docker) seeking a full-time position in an Italian tech company. Available immediately, open to remote, hybrid, or on-site in Lombardia/Milano.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/oussama-lahmami/) [![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:oussamalahmami@hotmail.com)
