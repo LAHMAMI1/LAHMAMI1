@@ -1,51 +1,137 @@
-# Oussama Lahmami — Full-Stack Developer
+<div align="center">
 
-I build and deploy production websites and web applications for Italian businesses — end to end.
+# Hi, I'm Oussama Lahmami 👋
 
-Two live deployments serving real clients in Italy:
-- **[norservice.it](https://norservice.it)** — Production website for an Italian service company in Lombardia (Next.js, React, TailwindCSS, Technical SEO, Core Web Vitals optimized)
-- **[permessopro.com](https://permessopro.com)** — Multilingual web platform (IT/EN/FR/AR) for immigrants navigating Italian residency procedures (Next.js, GDPR-compliant, mobile-first)
+### Full-Stack Developer · 42 Network Alumni · Based in Mantova, Italy
 
-Both projects were delivered solo: requirements gathering, frontend & backend development, technical SEO, Linux server deployment, and post-launch support.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-lahmami/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamalahmami@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/norservice.it-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://norservice.it)
 
----
-
-## About Me
-
-*   💻 Full-Stack Developer with a strong backend focus — **Next.js, React, Node.js, Fastify, TypeScript, Docker, NGINX**
-*   🚀 Trained at **1337 Coding School (42 Network / Ecole 42 Paris)** — under 5% acceptance rate, 100% project-based curriculum, no lectures
-*   🔐 Skilled in building **secure authentication systems** (JWT, 2FA TOTP, OAuth)
-*   🐳 Experienced with **Docker**, NGINX, and Linux production infrastructure
-*   🌍 Based in **Mantova, Lombardia** — available for projects across Italy (in-person or remote)
-* 💼 Seeking **full-time employment** as Full Stack Developer in Italy — available immediately | Remote & on-site
+</div>
 
 ---
 
-## My Tech Stack
+## 🚀 About Me
 
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
+I'm a **Full-Stack Developer** with a strong backend focus, trained at **1337 Coding School (42 Network / École 42 Paris)** — a peer-to-peer, project-based engineering school with under 5% acceptance rate.
+
+I build and deploy **production-grade** web applications end to end — from requirements gathering to Linux server deployment and post-launch support.
+
+- 🌍 Based in **Mantova, Lombardia, Italy**
+- 💼 Seeking **full-time employment** as Full-Stack Developer — available immediately, remote & on-site
+- 🔐 Skilled in **secure authentication** (JWT, 2FA TOTP, OAuth2)
+- 🐳 Experienced with **Docker**, NGINX, and Linux production infrastructure
+- 🎓 Pursuing a **Master's degree** (Laurea Magistrale)
+- 🌐 Multilingual: Arabic (native), French (fluent), English (B2+), Italian (learning)
 
 ---
 
-## GitHub Stats
+## 🌐 Live Projects
 
-[![Oussama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LAHMAMI1&show_icons=true&theme=dark)](https://github.com/LAHMAMI1)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **[norservice.it](https://norservice.it)** | Production website for an Italian service company in Lombardia | Next.js, React, TailwindCSS, NGINX |
+| **[permessopro.com](https://permessopro.com)** | Multilingual (IT/EN/FR/AR) platform for immigrants navigating Italian residency procedures | Next.js, GDPR-compliant, Mobile-first |
+
+Both delivered solo: design → development → SEO → Linux deployment → ongoing support.
 
 ---
 
-## Available for Full-Time Employment
+## 🛠️ Tech Stack
 
-Full Stack Developer (Node.js · TypeScript · React · Docker) seeking a full-time position in an Italian tech company. Available immediately, open to remote, hybrid, or on-site in Lombardia/Milano.
+**Frontend**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/oussama-lahmami/) [![Email](https://img.shields.io/badge/Email-Contact-green)](mailto:oussamalahmami@hotmail.com)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+
+**Database & DevOps**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Systems & Algorithms (42 School)**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+### 🎮 [FT_Transcendence](https://github.com/LAHMAMI1/FT_Transcendence_V16.0)
+Real-time multiplayer **Pong game** as a single-page application. Built with a **microservices architecture**: auth-service, management-service, 2FA service, API gateway, ELK stack monitoring. Deployed with Docker Compose.
+> TypeScript · Fastify · Docker · JWT · 2FA TOTP · ELK Stack
+
+### 💬 [Ft_IRC](https://github.com/LAHMAMI1/Ft_IRC)
+A fully functional **IRC server** built from scratch in C++, handling real TCP socket connections, multiple clients, channels, operators, and standard IRC commands.
+> C++ · TCP Sockets · Unix · Network Programming
+
+### 🐚 [Minishell](https://github.com/LAHMAMI1/Minishell)
+A **Unix shell** implementation in C — lexer, parser, built-in commands, pipes, redirections, environment variables, signal handling.
+> C · Unix · Process Management · Parsing
+
+### 🎮 [Cub3D](https://github.com/LAHMAMI1/Cub3D) ⭐ 6
+A **3D ray-casting engine** inspired by Wolfenstein 3D, rendering a dynamic first-person maze view using miniLibX.
+> C · Ray-Casting · Graphics · Mathematics
+
+### 🐳 [Inception](https://github.com/LAHMAMI1/Inception)
+System administration project: multi-container environment with **Docker**, NGINX, WordPress, MariaDB — all orchestrated from scratch.
+> Docker · Docker Compose · NGINX · Linux
+
+### ☕ [Java_Programming_Practice](https://github.com/LAHMAMI1/Java_Programming_Practice)
+Structured Java exercises covering OOP, data structures, algorithms, and design patterns.
+> Java · OOP · Data Structures · Algorithms
+
+### 🧩 [CPP_Modules_42](https://github.com/LAHMAMI1/CPP_Modules_42)
+42 School C++ modules covering OOP, inheritance, templates, STL, and advanced C++ concepts.
+> C++ · OOP · Templates · STL
+
+### 🧮 [LeetCode_solutions](https://github.com/LAHMAMI1/LeetCode_solutions)
+Algorithm solutions in C++ covering arrays, trees, graphs, dynamic programming, and more.
+> C++ · Algorithms · Data Structures
+
+### 🔧 [Libft](https://github.com/LAHMAMI1/Libft) ⭐ 2
+Re-implementation of the **C standard library** from scratch — the foundation for all 42 School C projects.
+> C · Memory Management · Standard Library
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Oussama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LAHMAMI1&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LAHMAMI1&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=LAHMAMI1&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+---
+
+## 📫 Get In Touch
+
+I'm actively looking for a **full-time Full-Stack Developer position** in Italy (remote, hybrid, or on-site in Lombardia/Milano).
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-lahmami/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamalahmami@hotmail.com)
+
+---
+
+<div align="center">
+<sub>Built with passion in Mantova, Italy 🇮🇹</sub>
+</div>
