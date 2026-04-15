@@ -2,11 +2,10 @@
 
 # Hi, I'm Oussama Lahmami 👋
 
-### Full-Stack Developer · 42 Network Alumni · Based in Mantova, Italy
+### Full-Stack Developer · Based in Italy
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oussama-lahmami/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamalahmami@hotmail.com)
-[![Portfolio](https://img.shields.io/badge/norservice.it-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://norservice.it)
 
 </div>
 
@@ -18,11 +17,10 @@ I'm a **Full-Stack Developer** with a strong backend focus, trained at **1337 Co
 
 I build and deploy **production-grade** web applications end to end — from requirements gathering to Linux server deployment and post-launch support.
 
-- 🌍 Based in **Mantova, Lombardia, Italy**
+- 🌍 Based in **Italy**
 - 💼 Seeking **full-time employment** as Full-Stack Developer — available immediately, remote & on-site
 - 🔐 Skilled in **secure authentication** (JWT, 2FA TOTP, OAuth2)
 - 🐳 Experienced with **Docker**, NGINX, and Linux production infrastructure
-- 🎓 Pursuing a **Master's degree** (Laurea Magistrale)
 - 🌐 Multilingual: Arabic (native), French (fluent), English (B2+), Italian (learning)
 
 ---
@@ -53,7 +51,6 @@ Both delivered solo: design → development → SEO → Linux deployment → ong
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
 **Database & DevOps**
 
@@ -83,29 +80,9 @@ A fully functional **IRC server** built from scratch in C++, handling real TCP s
 A **Unix shell** implementation in C — lexer, parser, built-in commands, pipes, redirections, environment variables, signal handling.
 > C · Unix · Process Management · Parsing
 
-### 🎮 [Cub3D](https://github.com/LAHMAMI1/Cub3D) ⭐ 6
-A **3D ray-casting engine** inspired by Wolfenstein 3D, rendering a dynamic first-person maze view using miniLibX.
-> C · Ray-Casting · Graphics · Mathematics
-
-### 🐳 [Inception](https://github.com/LAHMAMI1/Inception)
-System administration project: multi-container environment with **Docker**, NGINX, WordPress, MariaDB — all orchestrated from scratch.
-> Docker · Docker Compose · NGINX · Linux
-
 ### ☕ [Java_Programming_Practice](https://github.com/LAHMAMI1/Java_Programming_Practice)
 Structured Java exercises covering OOP, data structures, algorithms, and design patterns.
 > Java · OOP · Data Structures · Algorithms
-
-### 🧩 [CPP_Modules_42](https://github.com/LAHMAMI1/CPP_Modules_42)
-42 School C++ modules covering OOP, inheritance, templates, STL, and advanced C++ concepts.
-> C++ · OOP · Templates · STL
-
-### 🧮 [LeetCode_solutions](https://github.com/LAHMAMI1/LeetCode_solutions)
-Algorithm solutions in C++ covering arrays, trees, graphs, dynamic programming, and more.
-> C++ · Algorithms · Data Structures
-
-### 🔧 [Libft](https://github.com/LAHMAMI1/Libft) ⭐ 2
-Re-implementation of the **C standard library** from scratch — the foundation for all 42 School C projects.
-> C · Memory Management · Standard Library
 
 ---
 
@@ -131,7 +108,3 @@ I'm actively looking for a **full-time Full-Stack Developer position** in Italy 
 [![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oussamalahmami@hotmail.com)
 
 ---
-
-<div align="center">
-<sub>Built with passion in Mantova, Italy 🇮🇹</sub>
-</div>
