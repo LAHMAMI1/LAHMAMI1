@@ -55,7 +55,7 @@ Both delivered solo from requirements to Linux deployment and post-launch suppor
 ### [FT_Transcendence](https://github.com/LAHMAMI1/FT_Transcendence_V16.0) — Real-time multiplayer platform
 `TypeScript` `Fastify` `Node.js` `Docker` `NGINX` `WebSockets` `SQLite` `ELK Stack`
 
-42 Network capstone built with a team of 3. Full-stack real-time Pong platform with:
+42 Network capstone built solo. Full-stack real-time Pong platform with:
 - REST + WebSocket backend behind an NGINX API gateway (load balancing, security headers)
 - Auth stack: Google OAuth2 · 2FA (TOTP/Google Authenticator) · JWT sessions
 - Live chat with channels, DMs, ban/mute/kick/operator permissions
@@ -65,10 +65,10 @@ Both delivered solo from requirements to Linux deployment and post-launch suppor
 ---
 
 ### [Ft_IRC](https://github.com/LAHMAMI1/Ft_IRC) — RFC-compliant IRC server in C++
-`C++98` `POSIX Sockets` `poll()` `Non-blocking I/O`
+`C++98` `POSIX Sockets` `epoll()` `Non-blocking I/O`
 
 Single-threaded IRC server from raw TCP sockets — no threads, no blocking.
-Pure `poll()` event loop handling simultaneous clients, full RFC 2812 command set
+`epoll()`-based event loop handling simultaneous clients, full RFC 2812 command set
 (`JOIN`, `KICK`, `TOPIC`, `MODE` with i/t/k/o/l flags), tested against irssi and WeeChat.
 
 ---
